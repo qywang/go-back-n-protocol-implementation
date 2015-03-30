@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\Lab1-Windows\datalink.exe b 
+=========================================================================
+                          Station B                                 
+-------------------------------------------------------------------------
+Protocol.lib, version 3.0, Build: Oct 19 2009 (jiangy@public3.bta.net.cn)
+Channel: 8000 bps, 270 ms propagation delay, bit error rate 1.0E-005
+Log file "C:\Users\user\Desktop\Lab1-Windows\datalink-B.log", TCP port 59144, debug mask 0x00
+Station B is connecting station A (TCP port 59144) ... Done.
+New epoch: Fri Nov 30 19:27:30 2012
+=========================================================================
+Designed by Jiang Yanjun, build: Nov 28 2012  20:32:22
+2.632 .... 8 packets received, 7533 bps, 94.16%, Err 0 (0.0e+000)
+4.897 .... 13 packets received, 5996 bps, 74.95%, Err 0 (0.0e+000)
+7.014 .... 21 packets received, 6559 bps, 81.99%, Err 0 (0.0e+000)
+9.141 .... 29 packets received, 6839 bps, 85.49%, Err 0 (0.0e+000)
+11.274 .... 37 packets received, 7005 bps, 87.57%, Err 0 (0.0e+000)
+13.429 .... 45 packets received, 7105 bps, 88.81%, Err 1 (1.0e-005)
+15.545 .... 53 packets received, 7194 bps, 89.93%, Err 1 (8.8e-006)
+17.693 .... 61 packets received, 7248 bps, 90.60%, Err 1 (7.6e-006)
+21.398 .... 64 packets received, 6259 bps, 78.24%, Err 2 (1.4e-005)
+23.784 .... 71 packets received, 6233 bps, 77.92%, Err 2 (1.2e-005)
+27.050 ** WARNING: System too busy, sleep 15 ms, but be awakened 79 ms later
+27.171 .... 75 packets received, 5750 bps, 71.87%, Err 3 (1.6e-005)
+29.272 .... 83 packets received, 5899 bps, 73.74%, Err 3 (1.5e-005)
+31.350 .... 91 packets received, 6033 bps, 75.41%, Err 3 (1.4e-005)
+34.399 .... 94 packets received, 5672 bps, 70.90%, Err 4 (1.7e-005)
+36.771 .... 102 packets received, 5752 bps, 71.91%, Err 4 (1.6e-005)
+39.291 .... 104 packets received, 5485 bps, 68.56%, Err 4 (1.5e-005)

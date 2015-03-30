@@ -1,0 +1,27 @@
+﻿生成启动时间为 2012/11/30 17:51:26。
+     1>项目“C:\Users\user\Desktop\Lab1-Windows\datalink.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“.\Debug\datalink.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\datalink.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Debug\datalink.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\user\Desktop\Lab1-Windows\datalink.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\datalink.lib" /MACHINE:X86 .\Debug\datalink.exe.embed.manifest.res
+         .\Debug\datalink.obj
+         Protocol.lib
+         LINK : 缺少程序数据库 C:\Users\user\Desktop\Lab1-Windows\datalink.pdb；正在执行完全链接
+       Manifest:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Debug\datalink.exe.embed.manifest" /manifest .\Debug\datalink.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         datalink.vcxproj -> C:\Users\user\Desktop\Lab1-Windows\.\datalink.exe
+       FinalizeBuildStatus:
+         正在删除文件“.\Debug\datalink.unsuccessfulbuild”。
+         正在对“.\Debug\datalink.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\user\Desktop\Lab1-Windows\datalink.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.85
